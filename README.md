@@ -10,3 +10,17 @@ The Materials will be published after passing the review process (&#x1F34E;):
 > ## 4- the Gini coeffients at three administrative levels (excel files) 
 > ## 5- All figues used in the paper
 > 
+##
+```json
+   // code for coloring
+```
+```html
+   // code for coloring
+```
+```js
+   // code for coloring
+```
+```css
+   // code for coloring
+```
+// etc.
