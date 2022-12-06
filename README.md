@@ -12,6 +12,6 @@
 > ## 3- R code of the Gini decomposition approach (.R script)
 > ## 4- R code of the corralation analysis (.R script)
 > ## 5- The Gini coefficents at three spatial levels (excel files) 
-> ## 6- All figues used in the paper
+> ## 6- All Tables and Figures used in the paper
 
 > 
