@@ -8,8 +8,10 @@
 ```
 
 > ## 1- Shapefiles (.shp)
-> ## 2- Sums of NTL at three administrative levels (Excel files)
-> ## 3- R scripe of the Gini decomposition approach (.R script)
-> ## 4- the Gini coeffients at three administrative levels (excel files) 
-> ## 5- All figues used in the paper
+> ## 2- Sums of NTL at three spatial levels (Excel files)
+> ## 3- R code of the Gini decomposition approach (.R script)
+> ## 4- R code of the corralation analysis (.R script)
+> ## 5- The Gini coefficents at three spatial levels (excel files) 
+> ## 6- All figues used in the paper
+
 > 
